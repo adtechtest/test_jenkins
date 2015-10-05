@@ -1,0 +1,10 @@
+#!/bin/bash
+#incrementing 
+#set -x
+n=0
+while [ $n -lt 5 ]
+do
+n=`expr $n + 1`
+echo $n
+sleep 1
+done
