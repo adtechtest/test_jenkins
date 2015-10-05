@@ -1,0 +1,3 @@
+#!/bin/bash
+#call to the other file
+./test1.sh
